@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="full_name">Mohammad Aqsha Arianto Latif</string>
+    <string name="title">Android Developer Student</string>
+    <string name="phone_number">+62895800295166</string>
+    <string name="share_text">\@AndroidDev</string>
+    <string name="email">latifmaa21d@student.unhas.ac.id</string>
+</resources>
